@@ -1,0 +1,6 @@
+{
+  "version": "2.0.0",
+  "is_force": 1,
+  "downloadUrl": "",
+  "changelog": "重写整个软件，优化优选思路与列表，不会因为node太多而崩溃"
+}

@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.2",
   "is_force": 1,
-  "downloadUrl": "",
-  "changelog": "重写整个软件，优化优选思路与列表，不会因为node太多而崩溃"
+  "downloadUrl": "https://gh-proxy.com/https://github.com/QingdaoCYY/NicecatAPI/releases/download/2.0.2/NicecatVPN-2.0.2-android-arm64-v8a.apk",
+  "changelog": "加入IPV6路由选项。优化出口获取逻辑。"
 }

@@ -1,6 +1,6 @@
 {
   "version": "2.0.2",
   "is_force": 1,
-  "downloadUrl": "https://g.z321.cc.cd/https://github.com/QingdaoCYY/NicecatAPI/releases/download/2.0.2/default.exe",
+  "downloadUrl": "https://git.tangbai.cc/https://github.com/QingdaoCYY/NicecatAPI/releases/download/2.0.2/default.exe",
   "changelog": "加入IPV6路由选项。优化出口获取逻辑。"
 }

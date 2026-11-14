@@ -1,6 +1,6 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "is_force": 1,
-  "downloadUrl": "https://git.tangbai.cc/https://github.com/QingdaoCYY/NicecatAPI/releases/download/2.0.2/default.exe",
-  "changelog": "加入IPV6路由选项。优化出口获取逻辑。"
+  "downloadUrl": "https://git.tangbai.cc/https://github.com/QingdaoCYY/NicecatAPI/releases/download/2.0.3/default.exe",
+  "changelog": "更新了接口加密"
 }
